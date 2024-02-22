@@ -1,0 +1,2 @@
+org.example.hw3.User@37f8bb67
+Ivanov Ivan Ivanovich 02.08.1996 888552 m
